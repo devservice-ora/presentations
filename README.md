@@ -5,9 +5,10 @@ This README details the presentation materials archived in this repository, spec
 ---
 
 ## 🖥️ Target Presentation File
+*   **Dissertation Title:** ___A Case Study of the Classroom Podcast___
+*   **Degree Awarded Date:** March 29, 2010
+*   **Context:** Doctoral dissertation defense in ___Education___, Emphasis/Proficiency in ___Technology and Learning___
 *   **File Name:** `Dissertation Oral Defense 03-05-2010.pdf`
-*   **Successfully Defense  Date:** March 5, 2010
-*   **Context:** Doctoral dissertation defense in Education specializing in Technology and Learning
 
 ---
 
