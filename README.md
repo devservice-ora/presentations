@@ -6,8 +6,8 @@ This README details the presentation materials archived in this repository, spec
 
 ## 🖥️ Target Presentation File
 *   **File Name:** `Dissertation Oral Defense 03-05-2010.pdf`
-*   **Presentation Date:** March 5, 2010
-*   **Context:** Final Oral Defense for the Doctorate in Education (Technology and Learning)
+*   **Successfully Defense  Date:** March 5, 2010
+*   **Context:** Doctoral dissertation defense in Education specializing in Technology and Learning
 
 ---
 
@@ -40,7 +40,7 @@ This README details the presentation materials archived in this repository, spec
 ## 🛠️ Cross-Referenced Supporting Artifacts
 To review the exhaustive source texts, datasets, and literature syntheses corresponding directly to these defense slides, refer to the following companion files in the root directory:
 *   `Dissertation Proposal 2009.pdf` (Baseline methodology and scope definition)
-*   `Dissertation - A Case Study of the Classroom Podcast.pdf` (Exhaustive dissertation narrative)
+*   [`Dissertation - A Case Study of the Classroom Podcast`](https://github.com/devservice-ora/articles/blob/main/Dissertation%20-%20A%20Case%20Study%20of%20the%20Classroom%20Podcast.pdf) (Exhaustive dissertation narrative)
 *   `Effect of Education Podcasts on Student Performance.pdf` (Primary data backing the performance outcomes)
 *   `TechEd-Spreaker-A Case Study of Classroom Podcast.pdf` (Platform-specific field analysis)
 
