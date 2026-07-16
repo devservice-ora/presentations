@@ -9,7 +9,7 @@ This repository contains a collection of academic publications, research proposa
 The documents in this collection have been structured into logical thematic areas to facilitate navigation and reading.
 
 ### 1. 🎓 Doctorate & Dissertation Milestones
-*Focuses on the core research around digital inclusion, community college systems, and doctoral defense materials.*
+*Focuses on the core research around digital inclusion and doctoral defense materials.*
 * **[Dissertation Proposal (2009)](https://github.com/devservice-ora/presentations/blob/main/Dissertation%20Proposal%20-%202009.pdf)** - *The foundational research framework and methodology.*
 * **[Dissertation Oral Defense (2010)](https://github.com/devservice-ora/presentations/blob/main/Dissertation%20Oral%20Defense%2003-05-2010.pdf)** - *Presentation slides and defense notes finalizing the doctoral journey.*
 
