@@ -1,6 +1,6 @@
-# Academic & Technical Works Repository
+# Academic and Technical Works Presentation Repository
 
-Welcome to the organized portfolio of academic publications, research proposals, educational theory essays, and computer science curriculum materials. This repository represents a diverse body of work spanning over two decades, bridging the intersection of **Computer Science**, **Educational Technology**, and **Pedagogical Theory**.
+This repository contains a collection of academic publications, research proposals, essays on educational theory, and computer science curriculum materials. Spanning over two decades, it bridges the fields of**Computer Science**, **Educational Technology**, and **Pedagogical Theory**, contributing to the discourse on education and technology integration.
 
 ---
 
