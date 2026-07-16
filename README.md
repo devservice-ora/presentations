@@ -10,7 +10,6 @@ The documents in this collection have been structured into logical thematic area
 
 ### 1. 🎓 Doctorate & Dissertation Milestones
 *Focuses on the core research around digital inclusion, community college systems, and doctoral defense materials.*
-* **[Bridging the Digital Divide (2006)](https://github.com/devservice-ora/presentations/blob/main/Bridging%20the%20Digital%20Divide%20-%202006.pdf)** - *Analysis of socio-economic and technological access disparities.*
 * **[Dissertation Proposal (2009)](https://github.com/devservice-ora/presentations/blob/main/Dissertation%20Proposal%20-%202009.pdf)** - *The foundational research framework and methodology.*
 * **[Dissertation Oral Defense (2010)](https://github.com/devservice-ora/presentations/blob/main/Dissertation%20Oral%20Defense%2003-05-2010.pdf)** - *Presentation slides and defense notes finalizing the doctoral journey.*
 
@@ -26,6 +25,7 @@ The documents in this collection have been structured into logical thematic area
 
 ### 3. 🎙️ Educational Technology & E-Learning Infrastructure
 *Studies on the deployment of digital tools, mobile connectivity, and classroom media (including podcasts) to enhance learning outcomes.*
+* **[Bridging the Digital Divide (2006)](https://github.com/devservice-ora/presentations/blob/main/Bridging%20the%20Digital%20Divide%20-%202006.pdf)** - *Analysis of socio-economic and technological access disparities.*
 * **[eStudent Services (2005)](https://github.com/devservice-ora/presentations/blob/main/eStudent%20Services%20-%202005.pdf)** - *The shift toward digital and automated administrative systems in higher education.*
 * **[Technology Infrastructure and Student Access (2006)](https://github.com/devservice-ora/presentations/blob/main/Technology%20Infrastructure%20and%20Student%20Access%20-%202006.pdf)** - *Resource allocation and network access for students.*
 * **[Technology and Learning (2006)](https://github.com/devservice-ora/presentations/blob/main/Technology%20and%20Learning%20-%202006.pdf)** - *The general synthesis of educational technology integration.*
