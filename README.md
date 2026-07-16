@@ -37,6 +37,7 @@ The documents in this collection have been structured into logical thematic area
 
 ### 4. 💻 Computer Science & Software Engineering Curriculum
 *Core instructional assets, lecture materials, and programming guides developed for university-level Computer Science courses.*
+* **[An Overview of Computer Programming (2012)](https://github.com/devservice-ora/presentations/blob/main/An%20Overview%20of%20Computer%20Programming%20-%202012.pdf)** - *Introduction to computer programming for middle school students.*
 * **[Understanding Data Structures (2016)](https://github.com/devservice-ora/presentations/blob/main/Understanding-Data%20Structures%20-%202016.pdf)** - *Foundational concepts in data organization.*
 * **[Understanding Sorting (2017)](https://github.com/devservice-ora/presentations/blob/main/350636%20Understanding%20Sorting%20-%202017.pdf)** - *Visual and programmatic deep dives into common sorting algorithms.*
 * **[Understanding C++ Functions (2022)](https://github.com/devservice-ora/presentations/blob/main/Understanding%20C%2B%2B%20Functions%20-%202022.pdf)** - *Modular programming guidelines and parameter-passing mechanics in C++.*
