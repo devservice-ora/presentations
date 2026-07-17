@@ -1,6 +1,6 @@
 # Academic and Technical Presentations
 
-This repository contains a collection of academic publications, research proposals, essays on educational theory, and computer science curriculum materials. Spanning over two decades, it bridges the fields of**Computer Science**, **Educational Technology**, and **Pedagogical Theory**, contributing to the discourse on education and technology integration.
+This repository, created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, contains a collection of academic and technical presentations, research proposals, essays on educational theory, and computer science curriculum materials. Spanning over two decades, it bridges the fields of**Computer Science**, **Educational Technology**, and **Pedagogical Theory**, contributing to the discourse on education and technology integration.
 
 ---
 
